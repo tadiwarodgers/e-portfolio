@@ -8,7 +8,7 @@
 
 ![Screenshot 2025-05-23 162010](https://github.com/user-attachments/assets/712b1ef9-7f82-489e-87ea-0874632742c0)
 
-### 🪞 Reflection (STAR Technique)
+### 🪞 Reflection 
 
 
 **Situation**: We learned about career counseling sessions at the Work Readiness Training, which are designed to assist us in determining career paths according to our personality, values, and interests.
@@ -25,14 +25,15 @@
 
 ![Screenshot 2025-05-23 162324](https://github.com/user-attachments/assets/273ca4af-eb61-4336-a74c-a98381624b9d)
 
-### 🪞 Reflection (STAR Technique)
-**Situation**:In order to better understand our strengths and areas of enjoyment, we were invited to complete a self-assessment of our interests and abilities.
+### 🪞 Reflection 
 
-**Task**:I wanted to assess my present skills and pinpoint my areas of strength and improvement.
+**Situation**: In order to better understand our strengths and areas of enjoyment, we were given a quizz to complete a self-assessment of our interests and abilities.
 
-**Action**:I thought back on my coursework and part-time job experience while completing the skills inventory form that was provided. I then categorized my abilities into groups like problem-solving, technical, and communication.
+**Task**: I wanted to assess my present skills and pinpoint my areas of strength and improvement.
 
-**Result**:I came to the realization that while I am good at teamwork and visual communication, I still need to improve my time management. I made the decision to employ time-tracking tools to increase productivity and take on more team-based tasks as a result of this introspection.
+**Action**: I thought back on my coursework and part-time job experience while completing the skills inventory form that was provided. I then categorized my abilities into groups like problem-solving, technical, and communication.
+
+**Result**: I came to the realization that while I am good at teamwork and visual communication, I still need to improve my time management. I made the decision to employ time-tracking tools to increase productivity and take on more team-based tasks as a result of this introspection.
 
 ---
 
@@ -42,13 +43,13 @@
 
 ### 🪞 Reflection (STAR Technique)
 
-**Situation**: We took a personality test, such the MBTI or 16Personalities, to better understand ourselves for career planning.
+**Situation**: We took a personality test to better understand ourselves for career planning.
 
 **Task**: Analyzing my personality features and taking into account how they affect my interactions with others and work preferences was the aim.
 
 **Action**: I read the comprehensive findings after finishing the personality test. I contrasted the results with my behavior in real-world scenarios and whether working in groups or under duress.
 
-**Result**: According to the exam, INFJs are intelligent, imaginative people. This aligned with my enthusiasm for assisting people and finding significant solutions to design difficulties. I now know what kind of workplace works best for me and how to leverage my abilities as a person in a group situation.
+**Result**: According to the exam, It states i am good at  assisting people and finding significant solutions to design difficulties. I now know what kind of workplace works best for me and how to leverage my abilities as a person in a group situation.
 
 ---
 
@@ -63,9 +64,9 @@
 **Task**: Writing a well-structured resume that highlighted my training, abilities, experiences, and accomplishments was my assignment.
 
 
-**Action**: I modified a CV template from the training to fit my line of work. I included a brief personal statement, my technical talents (such as HTML/CSS and Adobe Creative Suite), my education, and my part-time job experience.
+**Action**: I modified a CV template from the training to fit my line of work. I included a brief personal statement, my technical talents (such as HTML/CSS Figma), my education, and my part-time job experience.
 
-**Result**: I submitted a well-written resume, and the facilitator gave me encouraging comments. Now that I know how to modify it for various tasks, I feel comfortable sending it in for job applications.
+**Result**: I submitted a well-written resume, and the educator  gave me encouraging comments. Now that I know how to modify it for various tasks, I feel comfortable sending it in for job applications.
 
 
 ---
@@ -85,10 +86,16 @@
 
 
 ---
-## 🔗 Summary and Insights (Connect)
+## 🔗 Summary and Insights 
 
-Through this portfolio, I have been able to identify my strengths, reflect on my growth using the STAR technique, and connect my experiences with my future career goals. This has provided me with a clearer vision and a stronger foundation for professional development.
+Creating this digital portfolio has been a transformative experience that allowed me to explore, evaluate, and showcase my personal and professional development. Each artefact included serves as a milestone in my journey through the Work Readiness Training, offering clear evidence of growth in skills, self-awareness, and career planning.
+
+Through the Career Counselling section, I gained direction and clarity about my future career path, aligning my values and interests with realistic goals. The Skills and Interests reflection helped me understand not just what I’m capable of, but also what energizes me in a work environment. The Personality Assessment deepened my awareness of how I interact with others and what roles suit my working style best.
+
+Building my CV and submitting it gave me confidence in presenting myself professionally. Most importantly, using the STAR technique to reflect on each experience taught me how to communicate my achievements and learning effectively—an essential skill for job interviews and professional growth.
+
+By connecting these experiences, I now have a clearer picture of who I am as a learner and an emerging professional. This portfolio is not just a collection of artefacts, but a reflection of how I’ve prepared to transition from education into the world of work with purpose and confidence.
 
 ---
 
-🔗 View the GitHub repository: [GitHub Portfolio Link](https://github.com/username/work-readiness-eportfolio)
+
