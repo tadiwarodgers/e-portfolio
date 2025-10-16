@@ -86,6 +86,87 @@
 
 
 ---
+## 💼 Business Communication
+
+<img width="1566" height="69" alt="Screenshot 2025-10-16 134824" src="https://github.com/user-attachments/assets/404aff88-f450-46ca-9f50-ba473a061e8d" />
+
+### 🪞 Reflection (STAR Technique)
+
+**Situation**: We were required to demonstrate our ability to communicate effectively in a business environment through written correspondence and presentations.
+
+**Task**: My objective was to craft professional emails, participate in discussions, and present ideas clearly to a group.
+
+**Action**: I practiced formal email writing, presentation delivery, and interpersonal communication during collaborative sessions. I paid close attention to tone, grammar, and confidence in delivery.
+
+**Result**: I improved my confidence in communicating clearly and respectfully in professional settings. I also learned to tailor my communication style to different audiences, which has strengthened my teamwork and leadership skills.
+---
+
+## 💼 Interview Skills
+
+<img width="1558" height="67" alt="Screenshot 2025-10-16 134848" src="https://github.com/user-attachments/assets/343604c0-e37a-4ea7-bede-b6435fa8fe5c" />
+
+### 🪞 Reflection (STAR Technique)
+
+**Situation**: As part of the Work Readiness Program, I participated in interview preparation sessions.
+
+**Task**:My task was to develop responses to common interview questions and practice professional etiquette.
+
+**Action**: I rehearsed responses using the STAR method, practiced maintaining eye contact, and refined my body language and tone of voice.
+
+**Result**:I gained the confidence to communicate my strengths effectively and handle interview pressure with composure.
+
+---
+
+## 🎬 Mock Interview
+
+<img width="1561" height="53" alt="Screenshot 2025-10-16 134922" src="https://github.com/user-attachments/assets/e180a249-8193-4c24-86a3-e9ec68a35dc5" />
+
+### 🪞 Reflection (STAR Technique)
+
+**Situation**: I participated in a live mock interview with feedback from an instructor.
+
+**Task**:My objective was to showcase professionalism, confidence, and clear articulation during the interview.
+
+**Action**: I prepared my answers using the STAR format, dressed formally, and conducted myself as if it were a real job interview.
+
+**Result**:The feedback I received highlighted my strong communication and enthusiasm. I also learned to improve my pacing and to give more specific examples when answering situational questions.
+
+---
+
+## 🌐 Professional Networking
+
+<img width="1571" height="66" alt="Screenshot 2025-10-16 135001" src="https://github.com/user-attachments/assets/c7bb4fcd-02a0-49d5-a3a2-0a7d7f687090" />
+
+### 🪞 Reflection (STAR Technique)
+
+**Situation**: I Was introduced to professional networking as a way to grow our career opportunities.
+
+**Task**: My task was to create a LinkedIn profile and connect with industry professionals.
+
+**Action**: I updated my profile with my CV, added a professional headshot, and began connecting with alumni and potential employers.
+
+**Result**:I established a strong online presence and began engaging with professionals in my field. This has helped me learn about current industry trends and potential job opportunities.
+
+---
+
+## 🏢 Workplace Etiquette
+
+<img width="1571" height="68" alt="Screenshot 2025-10-16 135053" src="https://github.com/user-attachments/assets/0f4dc8d6-6ddf-4703-ae9f-e275b4ef9e68" />
+
+### 🪞 Reflection (STAR Technique)
+
+
+**Situation**: I was taught about professional behavior in the workplace, including dress code, punctuality, and respect for diversity.
+
+**Task**:My goal was to understand and apply appropriate etiquette in various work scenarios.
+
+**Action**: I reviewed real-world case studies, discussed ethical dilemmas, and reflected on workplace conduct through group discussions.
+
+**Result**: I now understand how to present myself professionally and build positive relationships with colleagues and supervisors. This will help me adapt quickly to any work environment.
+---
+
+
+
 ## 🔗 Summary and Insights 
 
 Creating this digital portfolio has been a transformative experience that allowed me to explore, evaluate, and showcase my personal and professional development. Each artefact included serves as a milestone in my journey through the Work Readiness Training, offering clear evidence of growth in skills, self-awareness, and career planning.
