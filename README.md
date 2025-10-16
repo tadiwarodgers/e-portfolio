@@ -98,7 +98,8 @@
 
 **Action**: I practiced formal email writing, presentation delivery, and interpersonal communication during collaborative sessions. I paid close attention to tone, grammar, and confidence in delivery.
 
-**Result**: I improved my confidence in communicating clearly and respectfully in professional settings. I also learned to tailor my communication style to different audiences, which has strengthened my teamwork and leadership skills.
+**Result**: Improved my confidence in communicating clearly also learned to tailor my communication style to different audiences, which has strengthened my teamwork and leadership skills.
+
 ---
 
 ## 💼 Interview Skills
@@ -163,6 +164,7 @@
 **Action**: I reviewed real-world case studies, discussed ethical dilemmas, and reflected on workplace conduct through group discussions.
 
 **Result**: I now understand how to present myself professionally and build positive relationships with colleagues and supervisors. This will help me adapt quickly to any work environment.
+
 ---
 
 
